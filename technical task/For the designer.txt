@@ -1,0 +1,38 @@
+In the game, the user has access to the following windows:
+-main menu:
+	* Level selection;
+	* Game settings;
+	* About the developers;
+	*exit;
+-menu levels:
+	* Start a new game;
+	* Download the game;
+	* To the main menu;
+-menu settings -? (More specifically later);
+-menu pause:
+	*save the game;
+	* Settings;
+	* Exit to the menu;
+	* Exit to the desktop;
+-menu if the player lost:
+	* Start the level anew;
+	* Download the game;
+	* Exit to the menu;
+	* Exit to the desktop;
+-menu about the developers;
+// push in the finished project and split so that it would be possible to cut out the text of the individual elements;
+
+The following textures are needed:
+-field (background) (make a couple of different)
+-wall:
+	* Horizontal (top, bottom);
+	* Vertical (right, left);
+-yeda (make a couple of textures);
+-player:
+	+ Motion animations;
+	+ Animate food eating;
+	+ Animate death;
+-guards:
+	+ Motion animations;
+	+ Animate the killing of the player;
+/ * As I understand the field (background) in jpeg, and the rest in PNG, defined animation on a separate png * /
